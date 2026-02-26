@@ -60,7 +60,7 @@ Paste the component code inside it.
 Import and use it in App.tsx.
 
 ### 💻 Example Usage
-<pre> ```
+```
 import { GlassButtonBabel } from "./components/GlassButtonBabel";
 
 export default function App() {
@@ -75,7 +75,7 @@ export default function App() {
     </div>
   );
 }
-``` </pre>
+```
 ## 3️⃣ Index2_Another_type.html
 
 Another variation of the Liquid Glass button effect.
