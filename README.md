@@ -1,10 +1,10 @@
-🍏 Apple’s Liquid Glass Button
+# 🍏 Apple’s Liquid Glass Button
 
 HTML + CSS + Babel + React (TSX) Implementation
 
 This repository contains three different implementations of Apple-style Liquid Glass buttons for the web.
 
-🎥 Preview
+# 🎥 Preview
 
 
 https://github.com/user-attachments/assets/f5bc8a20-21d0-4af0-b4b7-ee08e9b14f0c
@@ -16,7 +16,7 @@ If the video does not auto-play on GitHub, click the link above to view the prev
 
 📦 Implementations
 
-1️⃣ glassButtonBabel
+## 1️⃣ glassButtonBabel
 
 Liquid Glass Button implemented using:
 
@@ -26,7 +26,7 @@ CSS
 
 JavaScript (Babel for backward compatibility)
 
-▶ How to Run
+### ▶ How to Run
 git clone <your-repo-url>
 
 Open the project folder
@@ -35,11 +35,11 @@ Run the HTML file directly in your browser
 
 No build setup required.
 
-2️⃣ GlassButtonBabel.tsx
+## 2️⃣ GlassButtonBabel.tsx
 
 TypeScript + React component version of the Liquid Glass button.
 
-▶ Setup Instructions
+### ▶ Setup Instructions
 
 Create a React or Next.js app with TypeScript:
 
@@ -59,7 +59,8 @@ Paste the component code inside it.
 
 Import and use it in App.tsx.
 
-💻 Example Usage
+### 💻 Example Usage
+<pre> ```
 import { GlassButtonBabel } from "./components/GlassButtonBabel";
 
 export default function App() {
@@ -74,17 +75,18 @@ export default function App() {
     </>
   );
 }
-3️⃣ Index2_Another_type.html
+``` </pre>
+## 3️⃣ Index2_Another_type.html
 
 Another variation of the Liquid Glass button effect.
 
-▶ How to Run
+### ▶ How to Run
 
 Clone the repository
 
 Open Index2_Another_type.html in your browser
 
-✨ Modes Available
+### ✨ Modes Available
 
 bubble
 
@@ -94,7 +96,7 @@ pill
 
 Each mode provides a different liquid glass surface style.
 
-🛠 Tech Used
+### 🛠 Tech Used
 
 HTML5
 
@@ -108,7 +110,7 @@ React
 
 TypeScript
 
-🎖 Credits
+## 🎖 Credits
 
 Original inspiration and credit for GlassButtonBabel:
 
