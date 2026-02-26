@@ -18,6 +18,10 @@ Babel (converts modern JavaScript to older versions)
 
 Clone the repository
 
+
+
+
+
 Navigate to the folder
 
 Run the HTML file directly in your browser
@@ -63,6 +67,7 @@ Another variation of the Liquid Glass button.
 Clone the repository
 
 Run the Index2_Another_type.html file
+https://github.com/user-attachments/assets/e012f04e-50d1-4b8b-93b0-5ef9b21128e7
 
 🎖 Credits
 
